@@ -18,10 +18,9 @@ function getUser({ name, age }) {
 }
 console.log(getUser(user));
 
-//
-
+//function建立物件
 function settings(a, b) {
-  let color = { backGround: { Color: a } };
+  let color = { backGrxound: { Color: a } };
   let size = { fondSize: { size: b } };
 
   return { color, size };
