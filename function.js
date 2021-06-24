@@ -8,4 +8,4 @@ function test(a) {
   return x; // 从第一行获取到预期结果
 }
 test(false); // outer
-test(true); // inner
+test(true); // inner 

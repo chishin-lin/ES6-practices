@@ -44,3 +44,10 @@ function getNumber(a) {
 }
 console.log(getNumber(1));
 
+//string
+let name = "Lily"
+let age = 23
+
+console.log(`My name is ${name} . I'm ${age} years old.` );
+
+
