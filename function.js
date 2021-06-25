@@ -25,6 +25,12 @@ function settings(a, b) {
 
   return { color, size };
 }
-let a = "red";
-let b = 14;
-console.log(settings(a, b));
+
+//let x = {color = { backGrxound: { Color: "red" } }, size = { fondSize: { size: 14 } };}
+
+//console.log(settings(a, b));
+
+const str = "hello";
+const [u, y, z, d, e] = str;
+
+console.log(u, y, z, d, e);
